@@ -5,7 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
-    "start": "echo 'Current working directory: ' && pwd && echo 'Node.js version: ' && node -v && echo 'Contents of the directory: ' && ls && strapi start",
+    "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
   },
